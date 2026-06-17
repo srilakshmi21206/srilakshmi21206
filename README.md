@@ -24,6 +24,7 @@
 ```python
 srilakshmi = {
     "role"      : "Information Science student",
+    "interning" : "Evolutionary Computation Enterprises (2026)",
     "interests" : ["AI/ML", "Computer Vision", "Data Analytics"],
     "currently" : "Building AI projects & growing my portfolio",
     "location"  : "Bengaluru, India 🇮🇳"
@@ -36,7 +37,7 @@ srilakshmi = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🧬 **[Plant Disease Detection (GA + Random Forest)](https://github.com/srilakshmi21206/plant-disease-ea)** | Genetic Algorithm (DEAP) for feature selection + Random Forest classifier · 94.23% accuracy on the PlantVillage dataset | `Python` `DEAP` `scikit-learn` |
+| 🧬 **[Plant Disease Detection (GA + RF)](https://github.com/srilakshmi21206/plant-disease-ea)** | Genetic Algorithm (DEAP) for feature selection + Random Forest classifier · 94.23% accuracy on PlantVillage dataset | `Python` `DEAP` `scikit-learn` |
 | 🌱 **[Plant Disease Detection (CNN)](https://github.com/srilakshmi21206/plant-disease-detection)** | CNN trained on 54,000+ PlantVillage images · 16 disease classes · Streamlit UI with OpenCV highlighting | `TensorFlow` `Streamlit` `OpenCV` `Plotly` |
 | 😊 **[Emotion Detection System](https://github.com/srilakshmi21206/emotion-detection)** | Real-time emotion recognition via DeepFace · 7 emotions · webcam + photo upload · mood-based music suggestions | `DeepFace` `Streamlit` `Python` |
 
@@ -63,11 +64,11 @@ srilakshmi = {
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=srilakshmi21206&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&bg_color=fbeaf0&title_color=72243e&text_color=993556&icon_color=d4537e)
+![](https://github-readme-stats.vercel.app/api?username=srilakshmi21206&hide_border=true&count_private=true&bg_color=fbeaf0&title_color=72243e&text_color=993556&icon_color=d4537e)
 
-![](https://nirzak-streak-stats.vercel.app/?user=srilakshmi21206&theme=rose_pine&hide_border=true&background=fbeaf0&ring=d4537e&fire=993556&currStreakLabel=72243e&sideLabels=993556&dates=993556&currStreakNum=72243e&sideNums=72243e)
+![](https://nirzak-streak-stats.vercel.app/?user=srilakshmi21206&hide_border=true&background=fbeaf0&ring=d4537e&fire=993556&currStreakLabel=72243e&sideLabels=993556&dates=993556&currStreakNum=72243e&sideNums=72243e)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=srilakshmi21206&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=fbeaf0&title_color=72243e&text_color=993556)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=srilakshmi21206&hide_border=true&count_private=true&layout=compact&bg_color=fbeaf0&title_color=72243e&text_color=993556)
 
 </div>
 
