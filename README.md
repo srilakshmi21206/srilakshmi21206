@@ -24,7 +24,6 @@
 ```python
 srilakshmi = {
     "role"      : "Information Science student",
-    "interning" : "Evolutionary Computation Enterprises (2026)",
     "interests" : ["AI/ML", "Computer Vision", "Data Analytics"],
     "currently" : "Building AI projects & growing my portfolio",
     "location"  : "Bengaluru, India 🇮🇳"
@@ -37,7 +36,8 @@ srilakshmi = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🌱 **[Plant Disease Detection](https://github.com/srilakshmi21206)** | CNN trained on 54,000+ PlantVillage images · 16 disease classes · Streamlit UI with OpenCV highlighting | `TensorFlow` `Streamlit` `OpenCV` `Plotly` |
+| 🧬 **[Plant Disease Detection (GA + Random Forest)](https://github.com/srilakshmi21206/plant-disease-ea)** | Genetic Algorithm (DEAP) for feature selection + Random Forest classifier · 94.23% accuracy on the PlantVillage dataset | `Python` `DEAP` `scikit-learn` |
+| 🌱 **[Plant Disease Detection (CNN)](https://github.com/srilakshmi21206/plant-disease-detection)** | CNN trained on 54,000+ PlantVillage images · 16 disease classes · Streamlit UI with OpenCV highlighting | `TensorFlow` `Streamlit` `OpenCV` `Plotly` |
 | 😊 **[Emotion Detection System](https://github.com/srilakshmi21206/emotion-detection)** | Real-time emotion recognition via DeepFace · 7 emotions · webcam + photo upload · mood-based music suggestions | `DeepFace` `Streamlit` `Python` |
 
 ---
