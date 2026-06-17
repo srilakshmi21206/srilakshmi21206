@@ -64,11 +64,11 @@ srilakshmi = {
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=srilakshmi21206&hide_border=true&count_private=true&bg_color=fbeaf0&title_color=72243e&text_color=993556&icon_color=d4537e)
+![](https://github-readme-stats.vercel.app/api?username=srilakshmi21206&hide_border=true&count_private=true&bg_color=00000000&title_color=d4537e&text_color=d4537e&icon_color=d4537e)
 
-![](https://nirzak-streak-stats.vercel.app/?user=srilakshmi21206&hide_border=true&background=fbeaf0&ring=d4537e&fire=993556&currStreakLabel=72243e&sideLabels=993556&dates=993556&currStreakNum=72243e&sideNums=72243e)
+![](https://nirzak-streak-stats.vercel.app/?user=srilakshmi21206&hide_border=true&background=00000000&ring=d4537e&fire=d4537e&currStreakLabel=d4537e&sideLabels=d4537e&dates=d4537e&currStreakNum=d4537e&sideNums=d4537e)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=srilakshmi21206&hide_border=true&count_private=true&layout=compact&bg_color=fbeaf0&title_color=72243e&text_color=993556)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=srilakshmi21206&hide_border=true&count_private=true&layout=compact&bg_color=00000000&title_color=d4537e&text_color=d4537e)
 
 </div>
 
@@ -78,6 +78,6 @@ srilakshmi = {
 
 [![](https://visitcount.itsvg.in/api?id=srilakshmi21206&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=f4c0d1&height=60&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=f4c0d1&height=60&section=footer&text=thanks%20for%20visiting!%20🌸&fontSize=18&fontColor=72243e&animation=fadeIn" />
 
 </div>
