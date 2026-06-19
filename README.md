@@ -37,6 +37,7 @@ srilakshmi = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| 🚗 **[Car Valuation Engine](https://github.com/srilakshmi21206/car-price-prediction)** | Genetic Algorithm (DEAP) feature selection + XGBoost regression · 96.5% R² · MobileNetV2 image verification | `Python` `DEAP` `XGBoost` `Streamlit` |
 | 🧬 **[Plant Disease Detection (GA + RF)](https://github.com/srilakshmi21206/plant-disease-ea)** | Genetic Algorithm (DEAP) for feature selection + Random Forest classifier · 94.23% accuracy on PlantVillage dataset | `Python` `DEAP` `scikit-learn` |
 | 🌱 **[Plant Disease Detection (CNN)](https://github.com/srilakshmi21206/plant-disease-detection)** | CNN trained on 54,000+ PlantVillage images · 16 disease classes · Streamlit UI with OpenCV highlighting | `TensorFlow` `Streamlit` `OpenCV` `Plotly` |
 | 😊 **[Emotion Detection System](https://github.com/srilakshmi21206/emotion-detection)** | Real-time emotion recognition via DeepFace · 7 emotions · webcam + photo upload · mood-based music suggestions | `DeepFace` `Streamlit` `Python` |
