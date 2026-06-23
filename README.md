@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=f4c0d1&height=120&section=header&text=HI,%20I'm%20SRILAKSHMI%20%F0%9F%8C%B8&fontSize=36&fontColor=72243e&fontAlignY=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=f4c0d1&height=120&section=header&text=hi,%20i'm%20srilakshmi%20%F0%9F%8C%B8&fontSize=36&fontColor=72243e&fontAlignY=55&animation=fadeIn" />
 
 </div>
 
@@ -37,7 +37,6 @@ srilakshmi = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🚗 **[Car Valuation Engine](https://github.com/srilakshmi21206/car-price-prediction)** | Genetic Algorithm (DEAP) feature selection + XGBoost regression · 96.5% R² · MobileNetV2 image verification | `Python` `DEAP` `XGBoost` `Streamlit` |
 | 🧬 **[Plant Disease Detection (GA + RF)](https://github.com/srilakshmi21206/plant-disease-ea)** | Genetic Algorithm (DEAP) for feature selection + Random Forest classifier · 94.23% accuracy on PlantVillage dataset | `Python` `DEAP` `scikit-learn` |
 | 🌱 **[Plant Disease Detection (CNN)](https://github.com/srilakshmi21206/plant-disease-detection)** | CNN trained on 54,000+ PlantVillage images · 16 disease classes · Streamlit UI with OpenCV highlighting | `TensorFlow` `Streamlit` `OpenCV` `Plotly` |
 | 😊 **[Emotion Detection System](https://github.com/srilakshmi21206/emotion-detection)** | Real-time emotion recognition via DeepFace · 7 emotions · webcam + photo upload · mood-based music suggestions | `DeepFace` `Streamlit` `Python` |
@@ -46,18 +45,29 @@ srilakshmi = {
 
 ### 💻 tech stack
 
+**Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI / ML**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=flat-square&logo=xgboost&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Data & Visualization**
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
+
+**Tools**
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
